@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Trevor and I enjoy playing sports and learning more about data.
 
 <!--
 **trevor-bingham99/trevor-bingham99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
